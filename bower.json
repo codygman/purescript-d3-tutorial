@@ -9,5 +9,9 @@
     "node_modules",
     "bower_components",
     "output"
-  ]
+  ],
+  "dependencies": {
+    "purescript-d3": "v0.6.0"
+  }
+
 }
