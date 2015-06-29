@@ -11,7 +11,7 @@
     "output"
   ],
   "dependencies": {
-    "purescript-d3": "v0.6.0"
+    "purescript-d3": "master"
   }
 
 }
